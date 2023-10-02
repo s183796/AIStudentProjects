@@ -6,6 +6,9 @@ In an era of rapid advancements in X-ray physics and the growing capabilities of
 The primary objective is the development and training of a deep neural network, based on existing architectures, commonly used for other computer vision tasks (e.g. UNet, VGGnet etc…). The training dataset consists of real-world X-ray images (raw and segmented), and the results will be benchmarked against manually labeled datasets.  The project will be supervised by Salvatore De Angelis (sdea@dtu.dk ) and Peter Stanley Jørgensen (psjq@dtu.dk)
 
 ## Example data 
+Below, you find an example of a ptychographic two-dimensional slice, obtained from the entire tomogram. Despite the high data quality, simple thresholding methods fail to accurately segment the three phases. The goal is to delegate this task to a properly trained neural network. 
+
+![Example](example.png)
 
 
 
