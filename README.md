@@ -1,4 +1,4 @@
-# Automating X-ray Image Segmentation with Deep Neural Networks
+# Automating the Segmentation of X-ray images with Deep Neural Networks
 
 ## Description 
 
