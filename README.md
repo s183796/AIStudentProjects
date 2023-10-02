@@ -1,4 +1,4 @@
-# AIStudentProjects
+# Automating X-ray Image Segmentation with Deep Neural Networks
 
 ## Description 
 
